@@ -28,3 +28,22 @@ School | University
 | TwoorMoreF | Two or More Races - Female      | 
 | UnknownM | Race Unknown - Male     | 
 | UnknownF | Race Unknown - FeMale     | 
+
+## Column Header Key: Undergraduate Enrollment Demographics
+Header | Key
+------------ | -------------
+IPEDSUnitID | Integrated Postsecondary Education Data System Unit ID
+FICECode | Six-digit identification code used to identify institutions of higher education in the United States
+Year | Year
+School | University   
+| State | State     |  
+| SortKey      | WHAT IS THIS? |   
+| CaucMPTFresh      | Caucasian Male Part-Time Freshman       |   
+| CaucFPTFresh | Caucasian Female Part-Time Freshman     |  
+| AfAmerMPTFresh     | African-American Male Part-Time Freshman  |   
+| AfAmerFPTFresh      | African-American Female Part-Time Freshman      |   
+| ForeignMPTFresh | Foreign Male Part-Time Freshman    |  
+| ForeignFPTFresh | Foreign Female Part-Time Freshman      |  
+| AsAmerMPTFresh | Asian American Male Part-Time Freshman      |  
+| AsAmerFPTFresh | Asian American Female Part-Time Freshman     |  
+| OtherMPTFresh | Other Male Part-Time Freshman     |  
